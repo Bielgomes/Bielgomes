@@ -22,11 +22,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielgomes&layout=compact&theme=tokyonight">
-  #
   <img src="https://github-readme-stats.vercel.app/api?username=Bielgomes&show_icons=true&theme=tokyonight">
 </div>
 
-<h>
+<p>Redes sociais</p>
 
 <p>
   <a href="https://github.com/Bielgomes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
