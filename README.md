@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Bielgomes&show_icons=true&theme=tokyonight">
 </div>
 
-<p>Redes sociais</p>
+<h2>Redes sociais</h2>
 
 <p>
   <a href="https://github.com/Bielgomes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
