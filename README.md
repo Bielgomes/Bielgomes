@@ -1,4 +1,4 @@
-### Olá amigo 👋
+### Olá, amigo 👋
 
 <h2>🔧 Linguagens e Tecnologias</h2>
 
