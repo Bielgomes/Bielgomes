@@ -21,6 +21,6 @@
 <h2>🖖 GitHub Status</h2>
 
 <div align="center">
-  <a><img src="https://github-readme-stats.vercel.app/api?username=Bielgomes&show_icons=true&theme=tokyonight"></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielgomes&layout=compact&theme=tokyonight"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bielgomes&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielgomes&layout=compact&theme=tokyonight">
 </div>
