@@ -13,10 +13,10 @@
 
 <h2>💻 Sistemas operacionais</h2>
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</p>
+<div/>
 
 <h2>🖖 GitHub Status</h2>
 
